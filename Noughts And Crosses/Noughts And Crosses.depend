@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1451561788 source:c:\codeblocks\noughts and crosses\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+
